@@ -1,0 +1,7 @@
+name: AntiCreativeMode
+version: '${project.version}'
+main: ru.strictmc.anticreativemode.anticreativemode.AntiCreativeMode
+api-version: 1.16
+authors: [ parimek ]
+description: Blocks creative mode and spectrator mode
+website: https://strictmc.ru
